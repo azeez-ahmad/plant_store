@@ -1,0 +1,86 @@
+[
+ Plant(
+    "Lotus",
+    ""Symbol of purity, enlightenment, self-regeneration.",
+   "$15.99",
+    "plantappbackend.herokuapp.com/images/lotus.png"
+  ),
+ Plant(
+    "Rose",
+    ""A beautiful flower that is often used as a symbol of love, beauty, and romance.",
+   "$20.99",
+    "plantappbackend.herokuapp.com/images/rose.png"
+  ),
+ Plant(
+    "Lilly",
+    ""White lilies symbolize purity and virtue",
+   "$25.99",
+    "plantappbackend.herokuapp.com/images/lilly.png"
+  ),
+ Plant(
+    "Tulip",
+    ""The most known meaning of tulips is perfect and deep love",
+   "$30.99",
+    "plantappbackend.herokuapp.com/images/tulip.png"
+  ),
+ Plant(
+    "Daisy",
+    ""Symbolize purity and innocence",
+   "$35.99",
+    "plantappbackend.herokuapp.com/images/daisy.png"
+  ),
+ Plant(
+    "Sunflower",
+    ""Loyalty and longevity",
+   "$40.99",
+    "plantappbackend.herokuapp.com/images/sunflower.png"
+  ),
+ Plant(
+    "Poppy",
+    ""Red poppy flowers represent consolation, remembrance.",
+   "$45.99",
+    "plantappbackend.herokuapp.com/images/poppy.png"
+  ),
+ Plant(
+    "Cactus",
+    ""Cactus represents warmth, protection, and motherly love",
+   "$50.99",
+    "plantappbackend.herokuapp.com/images/cactus.png"
+  ),
+ Plant(
+    "Cherry",
+    ""Cherry blossoms are symbolic of the spring – a time of renewal",
+   "$55.99",
+    "plantappbackend.herokuapp.com/images/cherry.png"
+  ),
+ Plant(
+    "Pine",
+    ""A pine tree is a conifer for which health benefits and therapeutic value is backed by many medicinal properties.",
+   "$60.99",
+    "plantappbackend.herokuapp.com/images/pine.png"
+  ),
+ Plant(
+    "Lavender",
+    ""Lavender is known for its ability to calm the nervous system, lift the mood and even lower blood pressure.",
+   "$65.99",
+    "plantappbackend.herokuapp.com/images/lavender.png"
+  ),
+ Plant(
+    "Orchid",
+    ""While orchids mean thoughtfulness, refinement, fertility, beauty, charm, and love.",
+   "$70.99",
+    "plantappbackend.herokuapp.com/images/orchid.png"
+  ),
+ Plant(
+    "Cherry Blossom",
+    ""Symbolic flower of the spring, a time of renewal, and the fleeting nature of life.",
+   "$75.99",
+    "plantappbackend.herokuapp.com/images/cherry-blossom.png"
+  ),
+ Plant(
+    "Bluebell",
+    ""This flower is believed to symbolize humility, and often times, gratitude, as well.",
+   "$80.99",
+    "plantappbackend.herokuapp.com/images/bluebell.png"
+  )
+]
